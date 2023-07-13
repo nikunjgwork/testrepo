@@ -1,0 +1,19 @@
+{
+  "ID": "Number",
+  "TrackTitle": "Track",
+  "EventType": "Event Type",
+  "TimeZone": "Time Zone",
+  "Country": "Country",
+  "DateString": "Date",
+  "Days": "Days",
+  "StartTimeInUTC": "Start Time",
+  "EndTimeInUTC": "End Time",
+  "Location": "City",
+  "RequestCode": "Request Code",
+  "RegistrationLink": "Registration Link",
+  "Notes": "Notes",
+  "UniqueId": "Unique Id",
+  "EventAttendeeRegistrationCount": "Expected Attendee Count",
+  "LabPurpose": "Workshop Purpose",
+  "Duration": "Duration In Minutes"
+}
