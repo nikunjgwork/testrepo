@@ -22,6 +22,7 @@
     "LabPurpose": "Workshop Purpose",
     "Duration": "Duration In Minutes",
     "RequestCode": "Request Code",
+	"PrimaryContact": "Primary Contact",
     "StartTime": "StartTime",
     "EndTime": "EndTime"
   }
