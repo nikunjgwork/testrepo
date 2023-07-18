@@ -21,8 +21,8 @@
     "Notes": "Notes",
     "LabPurpose": "Workshop Purpose",
     "Duration": "Duration In Minutes",
-    "StartTimeInUTC": "Start Time",
-    "EndTimeInUTC": "End Time",
-    "RequestCode": "Request Code"
+    "RequestCode": "Request Code",
+    "StartTime": "StartTime",
+    "EndTime": "EndTime"
   }
 }
